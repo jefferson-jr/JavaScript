@@ -1,0 +1,4 @@
+let nome = "Mini";
+let idade = 3;
+let saudacao = "Au, au au" + nome + " au au au" + idade + " au au au .";
+console.log(saudacao);
