@@ -3,4 +3,4 @@ function nomeDaFuncao() {
     return resultado; // opcional
 }
 // chamada da fucao 
-nomeDaFuncao
+nomeDaFuncao(parametros1, parametros2);
